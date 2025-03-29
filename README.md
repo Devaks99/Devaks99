@@ -50,9 +50,9 @@
 ## 📊 **Estatísticas do GitHub**
 
 <div align="center">
-  <a href="https://github.com/Inojoza28">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Inojoza28&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&border_radius=15"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inojoza28&layout=compact&theme=vision-friendly-dark&border_radius=15"/>
+  <a href="https://github.com/Devaks99">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Devaks99&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&border_radius=15"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devaks99&layout=compact&theme=vision-friendly-dark&border_radius=15"/>
   </a>
 </div>
 
@@ -64,7 +64,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-karla-209606263/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aks_dev/)
-[![E-mail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devaks@outlook.com.br)
+[![E-mail](https://img.shields.io/badge/-Outlook-0072C6?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:devaks@outlook.com.br)
 [![Portfólio](https://img.shields.io/badge/-Portfólio-24292e?style=for-the-badge&logo=github&logoColor=white)](https://devaks99.github.io/portifolio/)
 
 </div>
