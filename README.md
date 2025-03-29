@@ -14,16 +14,15 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 
-- **📚 Formação:** Graduanda em Análise e Desenvolvimento de Sistemas  
-- **💻 Experiência:** 1+ ano desenvolvendo interfaces web responsivas com JavaScript moderno, focando em UX e performance
-- **🎸 Hobbies:**  
-  - Toco violão e teclado no tempo livre
-  - Adoro ler livros
-  - Viciada em jogos (RPG e FPS são meus favoritos)  
-  - Corredora de rua nas manhãs de domingo  
-  - Frequentadora assídua da praia pra recarregar as energias 🌊
+- **🎓 Formação:** Graduanda em Análise e Desenvolvimento de Sistemas  
+- **👩💻 Experiência:** 1+ ano desenvolvendo interfaces web responsivas com JavaScript moderno, focando em UX e performance
+- **🌟 Hobbies:**  
+  - 🎵 **Música:** Toco violão clássico e teclado eletrônico  
+  - 🎮 **Gaming:** Viciada em RPGs épicos e FPS competitivos  
+  - 📖 **Leitura:** Adoro ler livros de fantasia e tech  
+  - 🏃♀️ **Corrida:** 5km é minha meta nas manhãs de domingo  
+  - 🌅 **Praia:** Minha terapia preferida!  
 - **🚀 Objetivo:** Me tornar referência em Front-End e criar projetos open-source impactantes
-
 ---
 
 ## 🛠 **Tecnologias & Ferramentas**
