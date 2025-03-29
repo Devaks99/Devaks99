@@ -3,7 +3,7 @@
 <div align="center">
   <!-- Animação de texto digitado (Typing SVG) -->
 <img 
-       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=b0bac0¢er=true&vCenter=true&width=500&height=60&lines=🌟+Bem-vindo(a)+ao+meu+GitHub!;🚀+Desenvolvedor+Front+End;💡+Entusiasta+de+Tecnologia" 
+       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=1000&color=b0bac0¢er=true&vCenter=true&width=500&height=60&lines=🌟+Bem-vindo(a)+ao+meu+GitHub!;🚀+Desenvolvedora+Front+End;💡+Entusiasta+de+Tecnologia" 
        alt="Typing animation"
   />
 </div>
@@ -17,7 +17,8 @@
 - **📚 Formação:** Graduanda em Análise e Desenvolvimento de Sistemas  
 - **💻 Experiência:** 1+ ano desenvolvendo interfaces web responsivas com JavaScript moderno, focando em UX e performance
 - **🎸 Hobbies:**  
-  - Toco violão no tempo livre e estou aprendendo teclado  
+  - Toco violão e teclado no tempo livre
+  - Adoro ler livros
   - Viciada em jogos (RPG e FPS são meus favoritos)  
   - Corredora de rua nas manhãs de domingo  
   - Frequentadora assídua da praia pra recarregar as energias 🌊
