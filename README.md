@@ -75,7 +75,8 @@
 ![Visitors](https://komarev.com/ghpvc/?username=Devaks99&color=blueviolet&style=flat)
 
 **⭐ Explore meus repositórios e vamos trocar ideias!**  
-**"O segredo da criatividade é saber esconder suas fontes" - Einstein**
+**"A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original."
+– Albert Einstein**
 
 <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="100"> <!-- GIF de controle de videogame -->
 
