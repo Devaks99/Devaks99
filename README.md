@@ -14,15 +14,15 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 
-- **🎓 Formação:** Graduanda em Análise e Desenvolvimento de Sistemas  
+- **🎓 Formação:** Graduada em Análise e Desenvolvimento de Sistemas  
 - **👩💻 Experiência:** 1+ ano desenvolvendo interfaces web responsivas com JavaScript moderno, focando em UX e performance
 - **🌟 Hobbies:**  
-  - 🎵 **Música:** Toco violão clássico e teclado eletrônico  
-  - 🎮 **Gaming:** Viciada em RPGs épicos e FPS competitivos  
-  - 📖 **Leitura:** Adoro ler livros de fantasia e tech  
+  - 🎵 **Música:** Toco violão e teclado 
+  - 🎮 **Gaming:** Viciada em jogos de RPG e Minecraft 
+  - 📖 **Leitura:** Adoro ler livros de fantasia e autoajuda  
   - 🏃♀️ **Corrida:** 5km é minha meta nas manhãs de domingo  
   - 🌅 **Praia:** Minha terapia preferida!  
-- **🚀 Objetivo:** Me tornar referência em Front-End e criar projetos open-source impactantes
+- **🚀 Objetivo:** Me tornar referência em Front-End e criar projetos open-source diferenciados e inovadores!
 ---
 
 ## 🛠 **Tecnologias & Ferramentas**
